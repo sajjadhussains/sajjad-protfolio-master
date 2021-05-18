@@ -1,0 +1,12 @@
+.nav-link:hover{
+    background-color: #BB2D3B;
+    border-radius: 3px;
+}
+
+.navbar-toggler{
+    background-color:#BB2D3B;
+    border: 1px solid black;
+}
+.header-section{
+    background-color:#343A40;
+}

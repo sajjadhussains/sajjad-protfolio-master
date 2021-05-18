@@ -1,0 +1,18 @@
+.custom-card{
+    border: 1px solid  #BB2D3B;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 1px 1px 10px grey;
+}
+
+.custom-card-img img{
+    width: 100%;
+    height: 250px;
+    border-radius: 5px;
+}
+
+.custom-card:hover{
+    box-shadow: 5px 5px 10px #BB2D3B;
+    cursor: pointer;
+}

@@ -1,0 +1,24 @@
+.about-img img{
+    height: 270px!important;
+    border-radius: 50%!important;
+}
+
+.img-size img{
+    margin-top: 15%;
+    height: 250px;
+    filter: grayscale(1);
+    transition: all 1s;
+    transition-timing-function: ease;
+    
+}
+
+.img-size img:hover{
+    filter: grayscale(0);
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.btn-outline-custom{
+    background-color:#343A40;
+    border: none !important;
+}

@@ -1,0 +1,47 @@
+.name-color{
+    color: #fff;
+    font-size: 60px;
+    margin: 0 0 15px;
+}
+
+.custom-color{
+    color: #BB2D3B;
+}
+
+.intro-img{
+    height: 300px;
+    border: 1px solid #BB2D3B;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.icon img{
+    height: 45px;
+    border-radius: 50%;
+}
+h3{
+    color:lightgrey;
+}
+.button-danger{
+    background-color:#BB2D3B ;
+}
+.text2{
+    width: 0ch;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: text 15s steps(34) infinite alternate;
+    border-right: 3px solid gray;
+    font-size: 25px;
+    color: lightgrey;
+
+}
+@keyframes text{
+    0%{
+        width: 0ch;
+    }
+    50%{
+        width: 34ch;
+    }
+}
